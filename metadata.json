@@ -1,0 +1,8 @@
+{
+  "name": "Hearthplow",
+  "description": "A cozy 3D isometric alpine snow-plowing game with truck upgrades, combo multipliers, and procedural synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
